@@ -59,5 +59,5 @@ npm run build
 ## **Questions?**
 
 For any inquiries, feel free to reach out:  
-📧 **Email:** [mohammedhathim1684@gmail.com]
-🐙 **GitHub:** [github.com/Hathim0001](https://github.com/Hathim0001)
+📧 **Email:** [iamashvanhtkumar47@gmail.com]
+🐙 **GitHub:** [github.com/Ashvanth-kumar](https://github.com/Ashvanth-kumar)
